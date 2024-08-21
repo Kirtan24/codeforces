@@ -1,0 +1,1 @@
+{"name":"Local: 03_problem_231A","url":"e:\\K\\Python DSA\\CodeForces\\03_problem_231A.py","tests":[{"id":1722509673008,"input":"3\n1 1 0\n1 0 0\n1 1 1","output":"2"},{"id":1722509704709,"input":"2\n1 1 0\n1 0 0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\K\\Python DSA\\CodeForces\\03_problem_231A.py","group":"local","local":true}
